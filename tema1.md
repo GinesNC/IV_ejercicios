@@ -42,7 +42,7 @@ Repetido tantas veces como cores lógicos tiene el procesador.
 ## Ejercicio 4
   #### 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
 
-  ![Salida de la orden](https://www.dropbox.com/s/bw1rb54idtjgobb/kvm-ok.png?dl=0)
+  ![img](https://www.dropbox.com/s/bw1rb54idtjgobb/kvm-ok.png?dl=0)
 
   #### 2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 

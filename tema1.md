@@ -6,10 +6,9 @@
 La amortización de, por ejemplo, este servidor [Dell](https://www.dell.com/es-es/work/shop/servidores-almacenamiento-y-redes/smart-value-flexi-poweredge-t640-8x35-3104-1x8gb-1x300gb-15k-sas-h330-3y-nbd/spd/poweredge-t640/pet6401) que cuesta unos 1338,14€, sin I.V.A. y debido a que se puede deducir en el trimestre de la compra, no es necesario tenerlo en cuenta para los cálculos.
 
 Si partimos de la situación de que empezamos el 1 de enero, la amortización para 4 y 7 años es:
-- 4 años
-      1338,14 / 4 = 334,54 €/año
-- 7 años  
-      1338,14 / 7 = 191,16 €/año
+- 4 años: 1338,14 / 4 = **334,54 €/año**
+
+- 7 años: 1338,14 / 7 = **191,16 €/año**
 
 <!-- https://getquipu.com/blog/como-amortizo-los-bienes-de-inversion/ -->
 
@@ -43,7 +42,7 @@ Repetido tantas veces como cores lógicos tiene el procesador.
 ## Ejercicio 4
   #### 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
 
-  ![img] (https://www.dropbox.com/s/bw1rb54idtjgobb/kvm-ok.png?dl=0)
+  ![Salida de la orden](https://www.dropbox.com/s/bw1rb54idtjgobb/kvm-ok.png?dl=0)
 
   #### 2. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 
